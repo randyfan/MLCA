@@ -1,11 +1,11 @@
 # MLCA Intro
-2D generations cellular automata consists of a 2D grid of cells. These cells live, die, or are in a “dying” transition date depending on some simple rules
+2D generations cellular automata consists of a 2D grid of cells. These cells live, die, or are in a “dying” transition date depending on some simple rules.
 
-For the most part, there is no clear pattern in “interesting” rules with gliders. A user would have to randomly go through hundreds if not thousands of random rules before finding an interesting one 
+For the most part, there is no clear pattern in “interesting” rules with gliders. A user would have to randomly go through hundreds if not thousands of random rules before finding an interesting one.
 
-Even more daunting, there are 2^28 combinations of rules: 2^9 survival rules, 2^9 born rules, and 2^10 states, assuming we are using a Moore neighborhood and a max of 10 possible states
+Even more daunting, there are 2^28 combinations of rules: 2^9 survival rules, 2^9 born rules, and 2^10 states, assuming we are using a Moore neighborhood and a max of 10 possible states.
 
-In this project, we automatically detect interesting rules so a user doesn’t have to manually go through them. We define interesting rules specifically as those that have clear gliders (small patterns that move across the grid) with some individual characteristics
+In this project, we automatically detect interesting rules so a user doesn’t have to manually go through them. We define interesting rules specifically as those that have clear gliders (small patterns that move across the grid) with some individual characteristics.
 
 # Files
 
