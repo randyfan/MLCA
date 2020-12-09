@@ -9,5 +9,5 @@ Use python main.py to generate CA frames with certain rules/states. Specify rule
 
 
 Data generation requirements:
-* Bullet pip install matplotlib
-* Bullet pip install PyQt5
+* matplotlib
+* PyQt5
